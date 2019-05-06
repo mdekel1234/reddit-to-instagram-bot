@@ -8,3 +8,4 @@ pip install praw
 pip install requests
 pip install urllib3
 pip install keyboard
+pip install pillow
