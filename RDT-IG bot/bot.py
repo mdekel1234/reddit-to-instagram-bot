@@ -50,7 +50,7 @@ for x in range(numRounds):
 	photoAlbum = []
 	print("Round/post number:", x)
 	for subbmission in new_memes:
-		if subbmission.stickied == True: #checking if post is only text.
+		if subbmission.is_self == True: #checking if post is only text.
 			print("Post was text, skipping to next post.")
 			continue
 		else:
