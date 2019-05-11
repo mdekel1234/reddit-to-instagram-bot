@@ -1,11 +1,11 @@
 # reddit-to-instagram-bot
-takes images from Reddit and posts them to Instagram
+takes images from Reddit and posts them to Instagram. needs python 3
 
 
 REQUIREMENTS: 
-pip install InstagramAPI
-pip install praw
-pip install requests
-pip install urllib3
-pip install keyboard
-pip install pillow
+pip3 install InstagramAPI
+pip3 install praw
+pip3 install requests
+pip3 install urllib3
+pip3 install keyboard
+pip3 install pillow
